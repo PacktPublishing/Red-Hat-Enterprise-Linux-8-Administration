@@ -1,0 +1,6 @@
+[local-slack-repo]
+name=Local Slack Repository
+baseurl=file:///var/tmp/repos/slack
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SLACK 

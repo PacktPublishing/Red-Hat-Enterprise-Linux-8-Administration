@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>OracleDB</short>
+
+  <description>Oracle Database firewalld service.It allows connections to the Oracle Database service. You will need to deploy Oracle Database in this machine and enable it for this option to be useful.</description>
+  <port protocol="tcp" port="1521"/>
+</service>

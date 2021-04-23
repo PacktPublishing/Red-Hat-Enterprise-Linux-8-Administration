@@ -53,7 +53,7 @@ repos:
         args:
         - -w
         - -i
-        - '4'
+        - '0'
         types:
         - shell
 -   repo: https://github.com/asottile/blacken-docs

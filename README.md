@@ -7,24 +7,28 @@ This is the code repository for [Red Hat Enterprise Linux 8 Administration](http
 **Master Linux administration skills and prepare for the RHCSA certification exam**
 
 ## What is this book about?
+
 Whether in infrastructure or development, as a DevOps or site reliability engineer, Linux skills are now more relevant than ever for any IT job, forming the foundation of understanding the most basic layer of your architecture. With Red Hat Enterprise Linux (RHEL) becoming the most popular choice for enterprises worldwide, achieving the Red Hat Certified System Administrator (RHCSA) certification will validate your Linux skills to install, configure, and troubleshoot applications and services on RHEL systems.
 
-This book covers the following exciting features: 
-* Deploy RHEL 8 in different footprints, from bare metal and virtualized to the cloud
-* Manage users and software on local and remote systems at scale
-* Discover how to secure a system with SELinux, OpenSCAP, and firewalld
-* Gain an overview of storage components with LVM, Stratis, and VDO
-* Master remote administration with passwordless SSH and tunnels
-* Understand the boot process, performance optimizations, and containers
+This book covers the following exciting features:
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Enterprise-Linux-Administration-administration-certification-ebook/dp/B097PJ3D1M) today!
+- Deploy RHEL 8 in different footprints, from bare metal and virtualized to the cloud
+- Manage users and software on local and remote systems at scale
+- Discover how to secure a system with SELinux, OpenSCAP, and firewalld
+- Gain an overview of storage components with LVM, Stratis, and VDO
+- Master remote administration with passwordless SSH and tunnels
+- Understand the boot process, performance optimizations, and containers
+
+If you feel this book is for you, get your [copy](https://s.admins.guru/buyonamazon) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
+
 All of the code is organized into folders. For example, Chapter05.
 
 The code will look like the following:
+
 ```
 [root@rhel8 ~]# useradd user01
 [root@rhel8 ~]# grep user01 /etc/passwd
@@ -41,21 +45,21 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter  | Software required                                                                                  | OS required                        |
-| -------- | ---------------------------------------------------------------------------------------------------| -----------------------------------|
-| 1-19     | Red Hat Enterprise Linux 8												                            | Windows, Mac OS X, and Linux (Any) |
-| 1-19     | Oracle VM VirtualBox or Any Virtual Machine												        | Windows, Mac OS X, and Linux (Any) |
+| Chapter | Software required                           | OS required                        |
+| ------- | ------------------------------------------- | ---------------------------------- |
+| 1-19    | Red Hat Enterprise Linux 8                  | Windows, Mac OS X, and Linux (Any) |
+| 1-19    | Oracle VM VirtualBox or Any Virtual Machine | Windows, Mac OS X, and Linux (Any) |
 
-
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packt-cdn.com/downloads/9781800569829_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800569829_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* Linux Kernel Programming[[Packt]](https://www.packtpub.com/product/linux-kernel-programming/9781789953435) [[Amazon]](https://www.amazon.com/Linux-Kernel-Development-Cookbook-programming-ebook/dp/B07RW915K4)
 
-* Mastering Embedded Linux Programming - Third Edition [[Packt]](https://www.packtpub.com/product/mastering-embedded-linux-programming-third-edition/9781789530384) [[Amazon]](https://www.amazon.com/Mastering-Embedded-Linux-Programming-potential-ebook/dp/B07LH35XLK)
+- Linux Kernel Programming[[Packt]](https://www.packtpub.com/product/linux-kernel-programming/9781789953435) [[Amazon]](https://www.amazon.com/Linux-Kernel-Development-Cookbook-programming-ebook/dp/B07RW915K4)
+
+- Mastering Embedded Linux Programming - Third Edition [[Packt]](https://www.packtpub.com/product/mastering-embedded-linux-programming-third-edition/9781789530384) [[Amazon]](https://www.amazon.com/Mastering-Embedded-Linux-Programming-potential-ebook/dp/B07LH35XLK)
 
 ## Get to Know the Authors
+
 **Miguel Pérez Colino**
 He is an experienced IT enthusiast with a clear orientation towards open source software and open standards. He has an extensive background in IT, from operations to the architecture of large deployments and from identifying and prototyping solutions to defining IT strategies. He has delivered large projects, including NATO interoperable command and control systems in defense, extensive large deployments in retail (>15,000 devices), and digital transformation in the finance sector. Now, as part of the Cloud Platforms Business Unit of Red Hat, he works as a senior principal product manager building tools and defining methodologies to ease modernization and migration for customers, enabling the use of open source.
 
@@ -64,4 +68,3 @@ He is a software engineer whose Linux exposure began while studying physics, a p
 
 **Scott McCarty**
 He is a principal product manager for the container subsystem team, which enables key product capabilities in OpenShift Container Platform and Red Hat Enterprise Linux. His focus areas include container runtimes, tools, and images.Scott is a social media start-up veteran, an e-commerce old-timer, and a weathered government research technologist, with experience across a variety of companies and organizations, from seven-person start-ups to 15,000-employee technology companies. This has culminated in a unique perspective on open source software development, delivery, and maintenance.
-

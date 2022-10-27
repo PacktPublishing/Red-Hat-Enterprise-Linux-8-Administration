@@ -68,3 +68,7 @@ He is a software engineer whose Linux exposure began while studying physics, a p
 
 **Scott McCarty**
 He is a principal product manager for the container subsystem team, which enables key product capabilities in OpenShift Container Platform and Red Hat Enterprise Linux. His focus areas include container runtimes, tools, and images.Scott is a social media start-up veteran, an e-commerce old-timer, and a weathered government research technologist, with experience across a variety of companies and organizations, from seven-person start-ups to 15,000-employee technology companies. This has culminated in a unique perspective on open source software development, delivery, and maintenance.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800569829">https://packt.link/free-ebook/9781800569829 </a> </p>

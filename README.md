@@ -58,6 +58,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 - Mastering Embedded Linux Programming - Third Edition [[Packt]](https://www.packtpub.com/product/mastering-embedded-linux-programming-third-edition/9781789530384) [[Amazon]](https://www.amazon.com/Mastering-Embedded-Linux-Programming-potential-ebook/dp/B07LH35XLK)
 
+## Errata
+* Page 305 Under (Using SELinux Boolean settings to enable services): **getsebol -a|grep ^http** _should be_ **getsebool -a|grep ^http**
+
 ## Get to Know the Authors
 
 **Miguel Pérez Colino**
